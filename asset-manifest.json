@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e3e9677.css",
-    "main.js": "/static/js/main.f2e15314.js",
-    "static/js/787.7e2c6571.chunk.js": "/static/js/787.7e2c6571.chunk.js",
-    "static/media/chan-dung-edit.png": "/static/media/chan-dung-edit.937d5a6a40177b8eb425.png",
-    "index.html": "/index.html",
-    "main.0e3e9677.css.map": "/static/css/main.0e3e9677.css.map",
-    "main.f2e15314.js.map": "/static/js/main.f2e15314.js.map",
-    "787.7e2c6571.chunk.js.map": "/static/js/787.7e2c6571.chunk.js.map"
+    "main.css": "/mostafakhaled/static/css/main.0e3e9677.css",
+    "main.js": "/mostafakhaled/static/js/main.a487ed5d.js",
+    "static/js/787.7e2c6571.chunk.js": "/mostafakhaled/static/js/787.7e2c6571.chunk.js",
+    "static/media/chan-dung-edit.png": "/mostafakhaled/static/media/chan-dung-edit.937d5a6a40177b8eb425.png",
+    "index.html": "/mostafakhaled/index.html",
+    "main.0e3e9677.css.map": "/mostafakhaled/static/css/main.0e3e9677.css.map",
+    "main.a487ed5d.js.map": "/mostafakhaled/static/js/main.a487ed5d.js.map",
+    "787.7e2c6571.chunk.js.map": "/mostafakhaled/static/js/787.7e2c6571.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e3e9677.css",
-    "static/js/main.f2e15314.js"
+    "static/js/main.a487ed5d.js"
   ]
 }
