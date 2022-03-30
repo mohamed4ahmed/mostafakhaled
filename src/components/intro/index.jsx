@@ -21,7 +21,7 @@ const Greeting = () => {
       <div className="left-column">
         <img className="avatar" src={Avatar2} alt="Avatar2" />
         <h5>Mostafa Khaled Profile</h5>
-        <p>{"Company For Metel Decoration"}</p>
+        <p>{"Accounting and Administrative"}</p>
       </div>
       <div className="right-column">
         <div className="right-column__preview-shadow">
@@ -31,8 +31,7 @@ const Greeting = () => {
             <h3>What I Do?</h3>
             <p style={{ fontSize: "16px" }}>
               Reporting to Deputy /COO at Saudi Binladin Group. Manage a Project
-              Office Consist of Timekeeper, Purchaser, Storekeeper Drivers, and
-              Document Controller for five years
+              Office Consist of Timekeeper.
             </p>
             {/* <img className="avatar" src={Avatar} alt="Avatar" />
             <img className="avatar" src={Avatar1} alt="Avatar1" /> */}

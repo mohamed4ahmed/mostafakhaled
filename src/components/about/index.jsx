@@ -8,17 +8,17 @@ const About = ({ socials }) => {
       <div className="about-left">
         <div className="about-left-top">
           <h4>More about me</h4>
-          {/* <p>
+          <p>
             <span role="img" aria-label="from">
               🌏
             </span>{" "}
-            From: Elmahala-Elkoubra city , Gharbia , Egypt
-          </p> */}
+            From: Zifta city , Gharbia , Egypt
+          </p>
           <p>
             <span role="img" aria-label="live">
               🌏
             </span>{" "}
-            Location: Riyad city , Saudi Arabia
+            Live: Hamad city , Bahrin
           </p>
           <p>
             <span role="img" aria-label="email">
@@ -43,12 +43,11 @@ const About = ({ socials }) => {
             <span role="img" aria-label="experience">
               📕
             </span>{" "}
-            Experience: Accounting and Administrative Works where i can use all
-            my Skills and knowledge and get an extra experience. Over 7 years of
-            experience in the accounting, Warehouse Management, administrative
-            and secretarial. Now Reporting to Deputy /COO at Saudi Binladin
-            Group. Manage a Project Office Consist of Timekeeper, Purchaser,
-            Storekeeper Drivers, and Document Controller for five years.
+            Experience: Over 7 years of experience in the accounting, Warehouse
+            Management, administrative and secretarial. Now Reporting to Deputy
+            /COO at Saudi Binladin Group. Manage a Project Office Consist of
+            Timekeeper, Purchaser, Storekeeper Drivers, and Document Controller
+            for five years.
           </p>
           <hr />
         </div>
