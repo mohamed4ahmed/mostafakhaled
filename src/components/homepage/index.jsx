@@ -2,13 +2,13 @@ import React from "react";
 import "./style.css";
 import Intro from "../intro";
 import About from "../about";
-import Maps from "../maps";
-import Posts from "../posts";
+// import Maps from "../maps";
+// import Posts from "../posts";
 // import Contact from "../contact";
 import Greeting from "../greeting";
 
 // const Homepage = ({ languages, socials, tools, posts }) => {
-const Homepage = ({ socials, posts }) => {
+const Homepage = ({ socials }) => {
   return (
     <React.Fragment>
       <section className="s1">
@@ -25,13 +25,13 @@ const Homepage = ({ socials, posts }) => {
         </div>
       </section>
 
-      <section className="s1">
+      {/* <section className="s1">
         <div className="main-container">
           <Posts posts={posts} />
         </div>
-      </section>
+      </section> */}
 
-      <Maps />
+      {/* <Maps /> */}
 
       <section className="s2">
         <div className="main-container">

@@ -7,7 +7,7 @@ const About = ({ socials }) => {
     <div className="about-wrapper">
       <div className="about-left">
         <div className="about-left-top">
-          <h4>More about RaQyah</h4>
+          <h4>More about me</h4>
           {/* <p>
             <span role="img" aria-label="from">
               🌏
@@ -24,32 +24,37 @@ const About = ({ socials }) => {
             <span role="img" aria-label="email">
               📨
             </span>{" "}
-            Email: info@raqyahsteel.com
+            Email: mostafa5646@yahoo.com
           </p>
-          {/* <p>
+          <p>
             <span role="img" aria-label="languages">
               🎓
             </span>{" "}
-            Languages: Arabic, English , Franch
-          </p> */}
-          {/* <p>
+            Languages: Arabic , English
+          </p>
+          <p>
             <span role="img" aria-label="education">
               📕
             </span>{" "}
-            Education: BSc degree in Social Service , Faculty of Social Service,
-            Mansoura University
-          </p> */}
+            Education: BSc degree in Accounting , Faculty of Accounting, Tanta
+            University
+          </p>
           <p>
             <span role="img" aria-label="experience">
               📕
             </span>{" "}
-            Experience: We Have experience in lifecycle of (Metal Deccoration)
+            Experience: Accounting and Administrative Works where i can use all
+            my Skills and knowledge and get an extra experience. Over 7 years of
+            experience in the accounting, Warehouse Management, administrative
+            and secretarial. Now Reporting to Deputy /COO at Saudi Binladin
+            Group. Manage a Project Office Consist of Timekeeper, Purchaser,
+            Storekeeper Drivers, and Document Controller for five years.
           </p>
           <hr />
         </div>
 
         <div className="about-left-bot">
-          <h3>Find RaQyah on social media </h3>
+          <h3>Find me on social media </h3>
           <div className="about-left-bot__socials-icons">
             {socials.map((social) => {
               return (

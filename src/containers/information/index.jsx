@@ -59,7 +59,7 @@ const Information = () => {
 
             <div className="information">
               <img src={avatar} alt="avatar" />
-              <h2>Mostafa Khaled - Accounting and Administrative</h2>
+              <h2>Mostafa Khaled</h2>
 
               {/* <div className="social">
                 <Link to="/portfolio">

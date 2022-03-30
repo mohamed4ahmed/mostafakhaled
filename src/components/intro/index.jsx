@@ -14,13 +14,13 @@ const Greeting = () => {
         </div>
         <ul className="nav-wrapper-right__navigation-list">
           <li>
-            <a href="mailto:info@raqyahsteel.com">Contact</a>
+            <a href="mailto:mostafa5646@yahoo.com">Contact</a>
           </li>
         </ul>
       </div>
       <div className="left-column">
         <img className="avatar" src={Avatar2} alt="Avatar2" />
-        <h5>RaQyah Steel Profile</h5>
+        <h5>Mostafa Khaled Profile</h5>
         <p>{"Company For Metel Decoration"}</p>
       </div>
       <div className="right-column">
@@ -28,10 +28,11 @@ const Greeting = () => {
           <div className="right-column__preview">
             <div className="corner corner-tl"></div>
             <div className="corner corner-tr"></div>
-            <h3>What RaQyah Do?</h3>
+            <h3>What I Do?</h3>
             <p style={{ fontSize: "16px" }}>
-              RaQyah is Company For (Metal Deccoration) and have a big
-              experience in this filed.
+              Reporting to Deputy /COO at Saudi Binladin Group. Manage a Project
+              Office Consist of Timekeeper, Purchaser, Storekeeper Drivers, and
+              Document Controller for five years
             </p>
             {/* <img className="avatar" src={Avatar} alt="Avatar" />
             <img className="avatar" src={Avatar1} alt="Avatar1" /> */}
