@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import avatar from "../../assets/img/chan-dung-edit.png";
-// import avatarIcon from "../../assets/img/avatar.webp";
+import avatarIcon from "../../assets/img/avatar.webp";
 import "./styles.css";
-// import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import Greeting from "../../components/greeting";
 import { FaArrowCircleUp } from "react-icons/fa";
 import Spinner from "../../components/Spinner";
@@ -61,7 +61,7 @@ const Information = () => {
               <img src={avatar} alt="avatar" />
               <h2>Mostafa Khaled</h2>
 
-              {/* <div className="social">
+              <div className="social">
                 <Link to="/portfolio">
                   <div className="icon">
                     <img src={avatarIcon} alt="website" />
@@ -69,7 +69,7 @@ const Information = () => {
                   <p>My Profile</p>
                   <div className=""></div>
                 </Link>
-              </div> */}
+              </div>
 
               <div className="social">
                 <a
